@@ -25,7 +25,9 @@
 </div>
 
 ### Projetos pessoais
-  *Em breve*
+- [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
+- [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
+- [App - Busca Perfil Github](https://github.com/FelipePelegrino/GITHUB_DMOS5)
 
 ### Contatos
 <div> 
