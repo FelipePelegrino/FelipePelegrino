@@ -4,6 +4,7 @@
 - ⚙️ Foco em otimização e arquitetura 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas -> [IFSP - Araraquara](http://arq.ifsp.edu.br/)
 - 👀 Curioso por natureza
+- 😄 Pronome: Ele/Dele
 
 ### Outras áreas de interesse
 
