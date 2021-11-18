@@ -26,6 +26,7 @@
 </div>
 
 ### Projetos pessoais
+- [App - Moplim Lista de Filmes](https://github.com/FelipePelegrino/Moplin)
 - [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
 - [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
 - [App - Busca Perfil Github](https://github.com/FelipePelegrino/GITHUB_DMOS5)
