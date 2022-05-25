@@ -27,6 +27,7 @@
 
 ### Projetos pessoais
 - [App - Popplus (Listagem de filmes/séries/cinemas) (Em Desenvolvimento)](https://github.com/FelipePelegrino/Popplus)
+- [App - Previsão do tempo (Em Desenvolvimento)](https://github.com/FelipePelegrino/TempoAgora)
 - [App - Moplim Lista de Filmes](https://github.com/FelipePelegrino/Moplin)
 - [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
 - [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
