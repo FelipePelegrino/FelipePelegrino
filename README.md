@@ -19,15 +19,12 @@
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img align="center" alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-  <img align="center" alt="Gradle" src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white">
   <img align="center" alt="Material Design" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-  <img align="center" alt="Language C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
 ### Projetos pessoais
+- [App - PomodoroTimer](https://github.com/FelipePelegrino/PomodoroTimer)
 - [App - Popplus (Listagem de filmes/séries/cinemas) (Em Desenvolvimento)](https://github.com/FelipePelegrino/Popplus)
-- [App - Previsão do tempo (Em Desenvolvimento)](https://github.com/FelipePelegrino/TempoAgora)
 - [App - Moplim Lista de Filmes](https://github.com/FelipePelegrino/Moplin)
 - [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
 - [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
