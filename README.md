@@ -9,7 +9,6 @@
 ### Outras áreas de interesse
 
 - 🧠 Inteligência Artificial
-- 🎨 UX/UI 
 - 🎮 Desenvolvimento de Games
 - 🔒 Segurança da informação
 
@@ -23,8 +22,8 @@
 </div>
 
 ### Projetos pessoais
+- [App - MyGames (Listagem de jogos IGDB) (Em Desenvolvimento)](https://github.com/FelipePelegrino/MyGames)
 - [App - PomodoroTimer](https://github.com/FelipePelegrino/PomodoroTimer)
-- [App - Popplus (Listagem de filmes/séries/cinemas) (Em Desenvolvimento)](https://github.com/FelipePelegrino/Popplus)
 - [App - Moplim Lista de Filmes](https://github.com/FelipePelegrino/Moplin)
 - [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
 - [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
