@@ -26,8 +26,6 @@
 - [App - PomodoroTimer](https://github.com/FelipePelegrino/PomodoroTimer)
 - [App - Moplim Lista de Filmes](https://github.com/FelipePelegrino/Moplin)
 - [App - Gerenciar hidratação](https://github.com/FelipePelegrino/CronoAgua)
-- [App - Minhas tarefas](https://github.com/FelipePelegrino/MinhasTarefas)
-- [App - Busca Perfil Github](https://github.com/FelipePelegrino/GITHUB_DMOS5)
 
 ### Contatos
 <div> 
