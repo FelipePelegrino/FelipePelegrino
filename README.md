@@ -2,15 +2,10 @@
 
 - 📱 Desenvolvedor Android
 - ⚙️ Foco em otimização e arquitetura 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas -> [IFSP - Araraquara](http://arq.ifsp.edu.br/)
 - 👀 Curioso por natureza
-- 😄 Pronome: Ele/Dele
-
-### Outras áreas de interesse
-
-- 🧠 Inteligência Artificial
-- 🎮 Desenvolvimento de Games
-- 🔒 Segurança da informação
+- 🏃‍♂️ Corrida
+- 💪 Calistenia
+- 😄 Ele/Dele
 
 ### 🧰 Principais Ferramentas
 <div style="display: inline_block"><br>
